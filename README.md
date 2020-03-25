@@ -5,12 +5,12 @@
 - [Axios](https://github.com/axios/axios)
 
 ![home](./images/index.png)
-![search](.images/search-result.png)
+![search](./images/search-result.png)
 ![user](./images/user.png)
 
 ## How to run local
 
-1 `git clone https://github.com/MarcinMiler/instagram-clone.git`
+1 `git clone https://github.com/filippobarcellos/github_finder`
 
 2 `cd/github_finder/yarn`
 
